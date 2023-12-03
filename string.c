@@ -19,7 +19,7 @@ int main(void)
       "Tutorials Point"
    };
 
-   for (i = 0; i < 2; ++i)
+   for (i = 0; i < 3; ++i)
       
    printf("string lenght of %s = %d\n", s[i], my_strlen(s[i]));
 
