@@ -23,6 +23,8 @@ int main(void)
       "Alpha"
       "Malam Seram"
       "60"
+      "Nona"
+      "onanazzzios"
    };
 
    for (i = 0; i < 5; ++i)
