@@ -28,7 +28,6 @@ int main(void)
       "Github1"
       "Github2"
       "Github push success.Alhamdulillah"
-      "Lala"
    };
 
    for (i = 0; i < 5; ++i)
