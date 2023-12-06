@@ -22,7 +22,7 @@ int main(void)
       "Lailu"
       "Alpha"
       "Nona"
-      "onanazzz"
+      "onanazzzios"
    };
 
    for (i = 0; i < 5; ++i)
