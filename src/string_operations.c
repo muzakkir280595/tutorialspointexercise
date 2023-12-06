@@ -21,6 +21,7 @@ int main(void)
       "Laila"
       "Lailu"
       "Alpha"
+      "Malam Seram"
    };
 
    for (i = 0; i < 5; ++i)
