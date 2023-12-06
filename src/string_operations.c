@@ -18,6 +18,9 @@ int main(void)
       "Git tutorials",
       "Tutorials Point",
       "Kingz"
+      "Laila"
+      "Lailu"
+      "Alpha"
    };
 
    for (i = 0; i < 5; ++i)
