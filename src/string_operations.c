@@ -29,7 +29,7 @@ int main(void)
       "Github2"
       "Github push success.Alhamdulillah"
       "garagara"
-      "kazekage251"
+      "kazekage25123"
    };
 
    for (i = 0; i < 5; ++i)
